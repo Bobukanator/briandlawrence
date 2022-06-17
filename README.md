@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @BrianDLawrence 
 - 👀 I’m interested in crypto and metaverse technologies! 
-- 🌱 I’m currently learning VUE.js, NUXT, and Solidity.  
+- 🌱 I’m currently actively coding using VUE.js, NUXT, Solidity, and Python. 
 - 💞️ I’m looking to collaborate on anything exciting that provides value!
 - 📫 Feel free to reach out with questions: Brian@BrianDLawrence.com 
 
