@@ -1,7 +1,15 @@
 # briandlawrence
 
-Personal website for Brian David Lawrence
-Feel free to reach out with questions: Brian@BrianDLawrence.com 
+- 👋 Hi, I’m @BrianDLawrence 
+- 👀 I’m interested in crypto and metaverse technologies! 
+- 🌱 I’m currently learning VUE.js, NUXT, and Solidity.  
+- 💞️ I’m looking to collaborate on anything exciting that provides value!
+- 📫 Feel free to reach out with questions: Brian@BrianDLawrence.com 
+
+
+# Personal Website
+This repository contains my personal website for Brian David Lawrence
+http://BrianDLawrence.com 
 
 ## Build Setup
 
