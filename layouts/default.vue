@@ -23,7 +23,7 @@
         <a href="https://twitter.com/BrianDLawrence"
           ><b-icon icon="twitter" size="is-large" type="is-primary"
         /></a>
-        <a href="https://github.com/Bobukanator"
+        <a href="https://github.com/BrianDLawrence"
           ><b-icon icon="github" size="is-large" type="is-primary"
         /></a>
       </div>
