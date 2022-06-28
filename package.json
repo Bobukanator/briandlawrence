@@ -10,9 +10,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "aframe": "^1.3.0",
-    "aframe-physics-system": "github:n5ro/aframe-physics-system",
-    "aframe-teleport-controls": "^0.3.1",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
     "nuxt-buefy": "^0.4.13",

@@ -8,7 +8,7 @@ This is an aframe scene. Some of the assets used are thanks to:
 -->
 <template>
   <div class="content">
-    <a-scene physics>
+    <a-scene>
       <img id="city" src="images/henning-witzel-unsplash.jpg" />
       <img id="wall" src="images/vintagewoodwall.jpg" />
 
@@ -160,18 +160,28 @@ This is an aframe scene. Some of the assets used are thanks to:
 
       <!-- Vive. -->
       <a-entity vive-controls="hand: left"></a-entity>
-      <a-entity vive-controls="hand: right"></a-entity>
+      <a-entity vive-controls="hand: right"></a-entity>-->
 
-      <!-- Rift. -->
+      <!-- Rift.-->
       <a-entity oculus-touch-controls="hand: left"></a-entity>
       <a-entity oculus-touch-controls="hand: right"></a-entity>
 
-      <a-entity id="blockHand" hand-controls="hand: right"></a-entity>
       <a-entity
-        id="teleHand"
-        hand-controls="hand: left"
-        teleport-controls="type: parabolic; collisionEntities: #floor"
-      ></a-entity>
+        id="left-hand"
+        brush
+        paint-controls="hand: left"
+        ui
+        teleport-controls
+      >
+      </a-entity>
+      <a-entity
+        id="right-hand"
+        brush
+        paint-controls="hand: right"
+        ui
+        teleport-controls
+      >
+      </a-entity>
     </a-scene>
   </div>
 </template>
