@@ -17,7 +17,7 @@ This is an aframe scene. Some of the assets used are thanks to:
         position="0 1 -4"
         rotation="-90 0 0"
         width="25"
-        height="25"
+        height="40"
         color="gray"
         static-body
       ></a-plane>
@@ -57,8 +57,24 @@ This is an aframe scene. Some of the assets used are thanks to:
       >
       </a-box>
       <a-box
+        id="eastwall2"
+        position="10 3 10"
+        scale="10 5 .1"
+        rotation="0 90 0"
+        src="#wall"
+      >
+      </a-box>
+      <a-box
         id="westwall1"
         position="-10 3 0"
+        scale="10 5 .1"
+        rotation="0 90 0"
+        src="#wall"
+      >
+      </a-box>
+      <a-box
+        id="westwall2"
+        position="-10 3 10"
         scale="10 5 .1"
         rotation="0 90 0"
         src="#wall"
@@ -140,6 +156,21 @@ This is an aframe scene. Some of the assets used are thanks to:
         position="6.5 1 -2.7 "
         rotation="-90 -45 0"
         scale=".05 .05 .05"
+      ></a-entity>
+
+      <!-- Vive. -->
+      <a-entity vive-controls="hand: left"></a-entity>
+      <a-entity vive-controls="hand: right"></a-entity>
+
+      <!-- Rift. -->
+      <a-entity oculus-touch-controls="hand: left"></a-entity>
+      <a-entity oculus-touch-controls="hand: right"></a-entity>
+
+      <a-entity id="blockHand" hand-controls="hand: right"></a-entity>
+      <a-entity
+        id="teleHand"
+        hand-controls="hand: left"
+        teleport-controls="type: parabolic; collisionEntities: #floor"
       ></a-entity>
     </a-scene>
   </div>
