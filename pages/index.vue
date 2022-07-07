@@ -1,6 +1,6 @@
 <template>
   <section class="section">
-    <div class="columns is-mobile">
+    <div class="columns">
       <card title="Leadership" icon="human-greeting" link="/leadership">
         I have led various organizations and initiatives for over two decades,
         both professionally and personally. Leadership is a skill that you can

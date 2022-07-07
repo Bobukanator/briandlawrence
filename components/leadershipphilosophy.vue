@@ -103,10 +103,10 @@
       </ul>
       <p>
         A mentor of mine once told me that authentic leaders create more
-        leaders, I embrace this perspective and strive to create more leaders
-        here at Cerner. I will continue to improve this philosophy and my self
-        by learning through every avenue which may include asking for feedback,
-        reading, taking courses, and learning from experiencing.
+        leaders, I embrace this perspective and strive to create more leaders. I
+        will continue to improve this philosophy and my self by learning through
+        every avenue which may include asking for feedback, reading, taking
+        courses, and learning from experiencing.
       </p>
     </div>
     <h2 class="subtitle">Memorable Leadership Quotes</h2>

@@ -1,10 +1,15 @@
 <template>
   <div class="box">
-    <h1 class="title has-text-centered">Brian's Projects (Fail Resume!)</h1>
+    <h1 class="title has-text-centered">
+      Brian's Projects (also known as my fail resume)
+    </h1>
     <article class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="images/youtube_social_square_white.png" alt="Image" />
+          <img
+            src="images/youtube_social_square_white.png"
+            alt="YouTube Logo"
+          />
         </figure>
       </div>
       <div class="media-content">
@@ -53,7 +58,7 @@
     <article class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="images/SsZ_LightWP4x4_2.png" alt="Image" />
+          <img src="images/SsZ_LightWP4x4_2.png" alt="SsZ TV Logo" />
         </figure>
       </div>
       <div class="media-content">
@@ -68,7 +73,8 @@
             use a multi-channel marketing approach and created a video blog
             using the same content called SolutionShortz aka SSZ.TV. Over
             several years, I created around 40 articles, some of which were also
-            turned into a youtube video.
+            turned into youtube and
+            <a href="https://vimeo.com/bobukanator">vimeo</a> videos.
           </p>
         </div>
       </div>
@@ -76,7 +82,7 @@
     <article class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="images/SF_LogoDraft1.jpg" alt="Image" />
+          <img src="images/SF_LogoDraft1.jpg" alt="Social Folio Logo" />
         </figure>
       </div>
       <div class="media-content">
@@ -85,19 +91,62 @@
             <strong>2011-2012 YSMR-SocialFolio</strong>
             <small>Smart Website</small>
             <br />
-            One of my favorite blog posts, "The Traditional Resume is Quickly
-            Becoming Obsolete," led me to start a new project called Your Social
-            Media Resume (transitioning to Social Folio). The idea was to create
-            a website that would scan your social media presence and provide a
-            score along with guidance on how to fix and or improve your social
-            media footprint! This project was the first time I created a team to
-            help. I took the concept to some of my friends at Drexel University
-            who were still students and pitched the idea. I had a rough
-            prototype created and sold it. We then started to produce a better
-            version using Java instead of PHP WordPress plugin code. This
-            project eventually fell apart as we could not commit as a team with
-            our busy schedules! It was fun, though, and I still think it could
-            have been a fantastic product if only we were more focused!
+            One of my favorite blog posts,
+            <a
+              href="https://ezinearticles.com/?Finding-a-Job-and-Social-Media&id=6261292"
+              >"The Traditional Resume is Quickly Becoming Obsolete,"</a
+            >
+            led me to start a new project called "Your Social Media Resume." The
+            idea was to create a website that would scan your social media
+            presence and provide a score along with guidance on improving your
+            social media footprint. I pitched the idea to three computer science
+            students at Drexel University. They liked the concept, and we
+            started converting my original prototype to Java while working on a
+            marketing plan. Unfortunately, the team was busy with other
+            commitments, and we did not make much progress before the team
+            dissolved.
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-left">
+        <figure class="image is-64x64">
+          <img src="images/CareerInformatics_LogoOnly200px.png" alt="Career Boot Camp Coaches Logo" />
+        </figure>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p>
+            <strong>2012-2018 Career Boot Camp Coaches LLC</strong>
+            <small>Startup</small>
+            <br />
+            After launching and running a successful career development program
+            at Siemens, my colleague and I decided to see if we could turn our
+            passion into a full-time career. So we formed Career Boot Camp
+            Coaches LLC. Our vision was "to empower and inspire individuals to
+            harness their career potential." We spent our nights and weekends
+            creating a <a href="https://drive.google.com/file/d/1-VCcvHUBn1eV3a_EL-iHQnkP1SaHfMeG/view?usp=sharing">two-day workshop</a> (Bootcamp) focused on self-discovery and
+            self-direction. After a couple of years, we decided to pivot and
+            convert our boot camp into an online digital career coach. We had
+            two additional founders join us with marketing and machine learning
+            backgrounds and created <a href="https://careerinformatics.com/about">career informatics</a>, an online digital career
+            coach. <br /><br />
+            The digital coach consisted of the following features:
+            <ul>
+            <li>Ability to parse Resume & Linkedin Profile automatically saving
+            skills to your profile Integration with Indeed jobs searching jobs
+            based on your skills and target job to return jobs the user is
+            qualified for
+            </li><li>Interview assistant that asked tailored questions
+            based on the job user is interested in</li><li>Machine learning features
+            learned which jobs the user was interested in tweaking the results
+            based on user preferences</li> 
+            </ul><br />
+            After countless nights and weekends,
+            brainstorming sessions, and unsuccessful partnerships, the team
+            decided to focus on other parts of our lives, and the company was
+            dissolved in 2018.
           </p>
         </div>
       </div>
