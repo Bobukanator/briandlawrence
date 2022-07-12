@@ -1,9 +1,12 @@
 <!--
 This is an aframe scene. Some of the assets used are thanks to: 
 
-* title:	Nintendo Entertainment System - 85' Scene
-* source:	https://sketchfab.com/3d-models/nintendo-entertainment-system-85-scene-cfd6dcb544fa4401b3dac20061d7fefb
-* author:	Miguel Adão (https://sketchfab.com/theauditor)
+title:	Nintendo Entertainment System - 85' Scene
+source:	https://sketchfab.com/3d-models/nintendo-entertainment-system-85-scene-cfd6dcb544fa4401b3dac20061d7fefb
+author:	Miguel Adão (https://sketchfab.com/theauditor)
+
+Apple II - https://sketchfab.com/digitalheritageaustralia
+Macintosh - https://sketchfab.com/MJGOODWINART
 
 -->
 <template>

@@ -19,14 +19,21 @@
         and weekends.
       </card>
 
-      <card title="Technology" icon="microsoft-visual-studio-code" link="/tech">
+      <card title="Coaching" icon="account-tie-voice-outline" link="/coaching">
+        Over the years spent in corporate, I found that one of my true passions
+        is helping people with their careers while coaching them to balance
+        their drive for success and personal life. This passion has led to
+        creating career-focused projects, websites, and even a startup.
+      </card>
+
+      <card title="Software" icon="microsoft-visual-studio-code" link="/tech">
         My first program used a scripting language similar to C called 'SALT' to
         build scripts for my RPG MUD character to earn experience. Over the
         years, I have programmed in C++, C#, Java, JavaScript, Python, Perl, and
         most recently in Solidity.
       </card>
 
-      <card title="Virtual Reality" icon="virtual-reality" link="/vrdemo">
+      <card title="MetaVerse" icon="virtual-reality" link="/vrdemo">
         I have been dabbling in the VR space since I purchased the Oculus DK2 in
         2014. I created some virtual worlds, including a recreation of Aech's
         basement (Ready Player One) in Unity, and explored web-based XR tech
