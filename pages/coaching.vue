@@ -84,7 +84,7 @@
         </div>
         <div class="column">
           <b-image
-            src="images/BrianPortrait_Siemens.jpg"
+            src="images/Brian_Siemens.jpg"
             alt="Brian Lawrence Image at Siemens"
           ></b-image>
           <b-image
