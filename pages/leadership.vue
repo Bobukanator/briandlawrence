@@ -1,5 +1,8 @@
 <template>
   <section>
+    <h1 class="title has-text-centered">
+      Leadership <b-icon icon="human-greeting"></b-icon>
+    </h1>
     <div class="content">
       <p>
         I have led various organizations and initiatives for over two decades,

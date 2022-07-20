@@ -1,5 +1,8 @@
 <template>
   <section>
+    <h1 class="title has-text-centered">
+      Entrepreneur <b-icon icon="lightbulb-on-outline"></b-icon>
+    </h1>
     <div class="content">
       <p>
         In 2008, I read some

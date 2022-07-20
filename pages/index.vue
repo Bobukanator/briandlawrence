@@ -26,7 +26,11 @@
         creating career-focused projects, websites, and even a startup.
       </card>
 
-      <card title="Software" icon="microsoft-visual-studio-code" link="/tech">
+      <card
+        title="Software"
+        icon="microsoft-visual-studio-code"
+        link="/software"
+      >
         My first program used a scripting language similar to C called 'SALT' to
         build scripts for my RPG MUD character to earn experience. Over the
         years, I have programmed in C++, C#, Java, JavaScript, Python, Perl, and

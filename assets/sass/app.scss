@@ -2,7 +2,7 @@
 @import "~bulma/sass/utilities/_all";
 
 // Set your colors
-$primary: #009999;
+$primary: #44CBB1;
 $primary-light: findLightColor($primary);
 $primary-dark: findDarkColor($primary);
 $primary-invert: findColorInvert($primary);
@@ -14,63 +14,50 @@ $custom-colors: null !default;
 $custom-shades: null !default;
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
-$colors: mergeColorMaps(
-    (
-        "white": (
-            $white,
-            $black,
+$colors: mergeColorMaps(("white": ($white,
+                $black,
+            ),
+            "black": ($black,
+                $white,
+            ),
+            "light": ($light,
+                $light-invert,
+            ),
+            "dark": ($dark,
+                $dark-invert,
+            ),
+            "primary": ($primary,
+                $primary-invert,
+                $primary-light,
+                $primary-dark,
+            ),
+            "link": ($link,
+                $link-invert,
+                $link-light,
+                $link-dark,
+            ),
+            "info": ($info,
+                $info-invert,
+                $info-light,
+                $info-dark,
+            ),
+            "success": ($success,
+                $success-invert,
+                $success-light,
+                $success-dark,
+            ),
+            "warning": ($warning,
+                $warning-invert,
+                $warning-light,
+                $warning-dark,
+            ),
+            "danger": ($danger,
+                $danger-invert,
+                $danger-light,
+                $danger-dark,
+            ),
         ),
-        "black": (
-            $black,
-            $white,
-        ),
-        "light": (
-            $light,
-            $light-invert,
-        ),
-        "dark": (
-            $dark,
-            $dark-invert,
-        ),
-        "primary": (
-            $primary,
-            $primary-invert,
-            $primary-light,
-            $primary-dark,
-        ),
-        "link": (
-            $link,
-            $link-invert,
-            $link-light,
-            $link-dark,
-        ),
-        "info": (
-            $info,
-            $info-invert,
-            $info-light,
-            $info-dark,
-        ),
-        "success": (
-            $success,
-            $success-invert,
-            $success-light,
-            $success-dark,
-        ),
-        "warning": (
-            $warning,
-            $warning-invert,
-            $warning-light,
-            $warning-dark,
-        ),
-        "danger": (
-            $danger,
-            $danger-invert,
-            $danger-light,
-            $danger-dark,
-        ),
-    ),
-    $custom-colors
-);
+        $custom-colors);
 
 // Links
 $link: $primary;
@@ -83,5 +70,5 @@ $link-focus-border: $primary;
 
 //overwrite navbar item for image to enable Career Informatics Logo to display correctly
 .navbar-item img {
-  max-height: 65px
+    max-height: 65px
 }

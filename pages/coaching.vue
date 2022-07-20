@@ -1,5 +1,8 @@
 <template>
   <section>
+    <h1 class="title has-text-centered">
+      Coaching <b-icon icon="account-tie-voice-outline"></b-icon>
+    </h1>
     <div class="content">
       <div class="columns is-vcentered is-multiline">
         <div class="column is-8">

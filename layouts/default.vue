@@ -4,7 +4,7 @@
       <template #brand>
         <b-navbar-item tag="router-link" :to="{ path: '/' }">
           <img
-            src="~assets/BLawCompact_WhiteTransparent.png"
+            src="images/BrianDLawrencelogoNarrow.jpg"
             alt="Brian D Lawrence"
           />
         </b-navbar-item>
