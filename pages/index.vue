@@ -37,7 +37,7 @@
         most recently in Solidity.
       </card>
 
-      <card title="MetaVerse" icon="virtual-reality" link="/vrdemo">
+      <card title="MetaVerse" icon="virtual-reality" link="/metaverse">
         I have been dabbling in the VR space since I purchased the Oculus DK2 in
         2014. I created some virtual worlds, including a recreation of Aech's
         basement (Ready Player One) in Unity, and explored web-based XR tech
