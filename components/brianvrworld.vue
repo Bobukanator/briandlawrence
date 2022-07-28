@@ -19,6 +19,8 @@ Macintosh - https://sketchfab.com/MJGOODWINART
       <img id="starwars" src="images/starwarsorginalposter.jpg" />
       <img id="startrek" src="images/startrek_tng.jpg" />
       <img id="neverendingstory" src="images/neverendingstory.jpg" />
+      <img id="atari" src="images/atariposter.jpg" />
+      <img id="knightrider" src="images/knightrider.jpg" />
 
       <a-plane
         id="floor"
@@ -127,6 +129,24 @@ Macintosh - https://sketchfab.com/MJGOODWINART
         scale="1.5 2.3 .01"
         rotation="0 90 0"
         src="#neverendingstory"
+      >
+      </a-box>
+
+      <a-box
+        id="atari"
+        position="-9.9 1.5 2"
+        scale="1.5 2.3 .01"
+        rotation="0 90 0"
+        src="#atari"
+      >
+      </a-box>
+
+      <a-box
+        id="knightrider"
+        position="-9.9 1.5 6"
+        scale="1.5 2.3 .01"
+        rotation="0 90 0"
+        src="#knightrider"
       >
       </a-box>
 

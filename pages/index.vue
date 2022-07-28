@@ -4,7 +4,7 @@
       <card title="Agile/Scrum" icon="chart-line" link="/agile">
         I have been working in an agile software development environment since
         about 2005. I have learned from the best and have experience as a
-        software engineer, scrum master, and manager. I am currently aCertified
+        software engineer, scrum master, and manager. I am currently a Certified
         Scrum Product Owner (CSPO) through Scrum Alliance.
       </card>
 
