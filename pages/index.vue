@@ -1,11 +1,18 @@
 <template>
   <section class="section">
     <div class="columns">
-      <card title="Leadership" icon="human-greeting" link="/leadership">
-        I have led various organizations and initiatives for over two decades,
-        both professionally and personally. Leadership is a skill that you can
-        learn. To be a good leader, you need experience, but you also need to
-        educate yourself regularly.
+      <card title="Agile/Scrum" icon="chart-line" link="/agile">
+        I have been working in an agile software development environment since
+        about 2005. I have learned from the best and have experience as a
+        software engineer, scrum master, and manager. I am currently aCertified
+        Scrum Product Owner (CSPO) through Scrum Alliance.
+      </card>
+
+      <card title="Coaching" icon="account-tie-voice-outline" link="/coaching">
+        Over the years spent in corporate, I found that one of my true passions
+        is helping people with their careers while coaching them to balance
+        their drive for success and personal life. This passion has led to
+        creating career-focused projects, websites, and even a startup.
       </card>
 
       <card
@@ -16,14 +23,22 @@
         In 2008, I read some fantastic books like Think and Grow Rich, The
         4-hour workweek, and Rich Dad - Poor Dad. These books gave me the
         confidence and drive to pursue entrepreneurial activities on my nights
-        and weekends.
+        and weekends. These activities have taught me more than any book could.
+      </card>
+    </div>
+    <div class="columns">
+      <card title="Leadership" icon="human-greeting" link="/leadership">
+        I have led various organizations and initiatives for over two decades,
+        both professionally and personally. Leadership is a skill that you can
+        learn. To be a good leader, you need experience, but you also need to
+        educate yourself regularly.
       </card>
 
-      <card title="Coaching" icon="account-tie-voice-outline" link="/coaching">
-        Over the years spent in corporate, I found that one of my true passions
-        is helping people with their careers while coaching them to balance
-        their drive for success and personal life. This passion has led to
-        creating career-focused projects, websites, and even a startup.
+      <card title="MetaVerse" icon="virtual-reality" link="/metaverse">
+        I have been dabbling in the VR space since I purchased the Oculus DK2 in
+        2014. I created some virtual worlds, including a recreation of Aech's
+        basement (Ready Player One) in Unity, and explored web-based XR tech
+        with a-frame and JavaScript.
       </card>
 
       <card
@@ -35,13 +50,6 @@
         build scripts for my RPG MUD character to earn experience. Over the
         years, I have programmed in C++, C#, Java, JavaScript, Python, Perl, and
         most recently in Solidity.
-      </card>
-
-      <card title="MetaVerse" icon="virtual-reality" link="/metaverse">
-        I have been dabbling in the VR space since I purchased the Oculus DK2 in
-        2014. I created some virtual worlds, including a recreation of Aech's
-        basement (Ready Player One) in Unity, and explored web-based XR tech
-        with a-frame and JavaScript.
       </card>
     </div>
   </section>

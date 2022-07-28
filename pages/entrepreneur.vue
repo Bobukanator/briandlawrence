@@ -11,15 +11,16 @@
         >
         like Think and Grow Rich, The 4-hour workweek, and Rich Dad - Poor Dad.
         These books gave me the confidence and drive to pursue entrepreneurial
-        activities on my nights and weekends.
+        activities on my nights and weekends. These activities have taught me
+        more than any book could while enabling me to meet and work closely with
+        fantastic like-minded people.
       </p>
       <p>
         The following are various entrepreneurial like projects I have worked on
-        over the years. I haven't had financial success yet; however, I have
-        enjoyed the time I have spent and the things I have learned because of
-        these activities. I suspect that I will always be involved in some type
-        of fun project throughout my life! None of these are on my official
-        Linkedin (maybe someday I will move them).
+        over the years. I haven't had financial success with these projects yet;
+        however, I have enjoyed the time I have spent and the things I have
+        learned because of these activities. I suspect that I will always be
+        involved in some type of fun project throughout my life!
       </p>
     </div>
     <brianprojects></brianprojects>
