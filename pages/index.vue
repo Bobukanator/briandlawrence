@@ -3,9 +3,8 @@
     <div class="columns is-centered is-vcentered">
       <div class="column is-half">
         <h1 class="title">
-          Technology Leader, entrepreneur, software engineer, HCI oriented
-          Computer Scientist, self-help nerd, world traveler, lover of life & my
-          wife.
+          Technology Leader, entrepreneur, software engineer, career coach,
+          agile coach, self-help nerd, world traveler, lover of life & my wife
         </h1>
       </div>
       <div class="column is-one-quarter">
@@ -94,7 +93,7 @@ export default {
           name: "description",
           hid: "description",
           content:
-            "Technology Leader, entrepreneur, software engineer, HCI oriented Computer Scientist, self-help nerd, world traveler, lover of life & my wife.",
+            "Technology Leader, entrepreneur, software engineer, career coach, agile coach, self-help nerd, world traveler, lover of life & my wife",
         },
       ],
     };
