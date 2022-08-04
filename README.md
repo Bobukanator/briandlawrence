@@ -11,7 +11,7 @@
 ## briandlawrence
 https://github.com/BrianDLawrence/briandlawrence
 Personal website built in VUE.js and NUXT 2
-http://BrianDLawrence.com <- Currently NOT active - plan to have this live by end of July 2022
+http://BrianDLawrence.com 
 
 ## art generator
 https://github.com/BrianDLawrence/art_generator
