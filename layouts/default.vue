@@ -34,23 +34,5 @@
 <script>
 export default {
   name: "defaultLayout",
-  mounted() {
-    // Dynamically loading aframe scripts
-    // I would have preferred to include these as part of
-    // the web package BUT there are currently issues
-    let aframeScript = document.createElement("script");
-    aframeScript.setAttribute(
-      "src",
-      "https://aframe.io/releases/1.3.0/aframe.min.js"
-    );
-    document.head.appendChild(aframeScript);
-
-    let aframeTeleportScript = document.createElement("script");
-    aframeTeleportScript.setAttribute(
-      "src",
-      "https://unpkg.com/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"
-    );
-    document.head.appendChild(aframeTeleportScript);
-  },
 };
 </script>

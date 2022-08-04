@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "givenName": "Brian",
+  "familyName": "Lawrence",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Coaching Services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Career Coaching",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Self discovery exploration"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Career Planning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Resume and Linkedin Profile reviews"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Agile Coaching",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "How to scale agile mentoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Change management coaching"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Agile operational review and coaching"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

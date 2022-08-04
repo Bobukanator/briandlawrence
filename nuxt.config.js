@@ -12,6 +12,9 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { hid: 'schema', type: 'application/ld+json', src: '/schemadata.json' }
     ]
   },
 

@@ -10,8 +10,8 @@ Macintosh - https://sketchfab.com/MJGOODWINART
 
 -->
 <template>
-  <div class="content">
-    <a-scene>
+  <div class="vr_window">
+    <a-scene embedded>
       <img id="city" src="images/henning-witzel-unsplash.jpg" />
       <img id="wall" src="images/vintagewoodwall.jpg" />
       <img id="topgun" src="images/TopGunPoster.jpg" />
