@@ -74,11 +74,17 @@
         </card>
       </div>
     </section>
+    <component
+      :is="'script'"
+      type="application/ld+json"
+      v-html="getSchema"
+    ></component>
   </section>
 </template>
 
 <script>
 import Card from "~/components/Card";
+import schemaData from "~/static/schemadata.json";
 
 export default {
   name: "IndexPage",
@@ -97,6 +103,11 @@ export default {
         },
       ],
     };
+  },
+  computed: {
+    getSchema() {
+      return JSON.stringify(schemaData);
+    },
   },
 };
 </script>
