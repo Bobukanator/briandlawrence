@@ -16,7 +16,7 @@
     </div>
     <footer class="footer">
       <div class="content has-text-centered">
-        <p>Copyright &copy; 2022 Brian Lawrence. All Rights Reserved.</p>
+        <p>Copyright &copy; 2023 Brian Lawrence. All Rights Reserved.</p>
         <a href="https://www.linkedin.com/in/briandlawrence/"
           ><b-icon icon="linkedin" size="is-large" type="is-primary"
         /></a>
