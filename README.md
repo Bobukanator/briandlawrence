@@ -16,9 +16,7 @@ http://BrianDLawrence.com
 ## art generator
 https://github.com/BrianDLawrence/art_generator
 I created this with the goal of dabbling in python and tensorflow. This project loads and trains a prediction model based on CIFAR-10. 
-I then use that prediction model to randomly generate images, one of each of the 10 types of images in CIFAR-10. Once I have the 
-art generator creating images I like, I will create a new NFT collection on opensea. 
-https://opensea.io/BrianDLawrence
+I then use that prediction model to randomly generate images, one of each of the 10 types of images in CIFAR-10. I was originally thinking about using this to create NFTs on opensea. 
 
 ## cryptobots
 https://github.com/BrianDLawrence/cryptobots
