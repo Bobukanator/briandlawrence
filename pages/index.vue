@@ -100,7 +100,7 @@ export default {
           name: "description",
           hid: "description",
           content:
-            "Technology Leader, entrepreneur, software engineer, career coach, agile coach, self-help nerd, world traveler, lover of life & my wife",
+            "Technology Leader & Consultant, Leadership & Engineering Coach, software engineer, self-help nerd, world traveler, lover of life & my wife",
         },
       ],
     };
