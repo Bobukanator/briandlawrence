@@ -80,9 +80,14 @@
             <a href="http://powerful-questions.com">powerful-questions.com</a>.
           </p>
           <p>
-            I still provide career coaching support to those in need. I am happy
-            to share templates for any material mentioned and have experience
-            reviewing resumes and LinkedIn profiles.
+            In January of 2023, I joined
+            <a href="https://mento.co">Mento.co</a> as a leadership and
+            engineering career coach. Mento is a fantastic learning and
+            development company that combines mentorship and coaching from
+            expert operators. You can sign up as an individual and Mento also
+            works directly with businesses. If you want to know more, check out
+            the site or reach out to me and I will be happy to share additional
+            information!
           </p>
         </div>
         <div class="column">
@@ -94,6 +99,7 @@
             src="images/BootCampFlowOverview-300x177.jpg"
             alt="Career Boot Camp Logo"
           ></b-image>
+          <b-image src="images/MentoLogo.svg" alt="Mento Co"></b-image>
         </div>
       </div>
     </div>
@@ -110,7 +116,7 @@ export default {
           name: "description",
           hid: "description",
           content:
-            "I one of my true passions is helping people with their careers while coaching them to balance their drive for success and personal life. This passion has led to creating career-focused projects, websites, and even a startup.",
+            "One of my true passions is helping people with their careers while coaching them to balance their drive for success and personal life. This passion has led to creating career-focused projects, websites, and even a startup.",
         },
       ],
     };
