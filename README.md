@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @BrianDLawrence 
 - 👀 I’m interested in crypto and metaverse technologies! 
-- 🌱 I’m currently actively coding using VUE.js, NUXT, Solidity, and Python. 
-- 💞️ I’m looking to collaborate on anything exciting that provides value!
+- 🌱 I’m currently actively coding using VUE.js, NUXT, and Python. 
+- 💞️ I’m open to collaborate on anything exciting that provides value!
 - 📫 Feel free to reach out with questions: Brian@BrianDLawrence.com 
 
 # Repositories
@@ -26,7 +26,6 @@ I created some Node.js scripts (bots) along with a basic Solidity contract with 
 https://github.com/BrianDLawrence/interviewassist
 NUXT Version of the Interview Assistant originally designed and implemented 2012-2018 as part of Career Boot Camp Coaches LLC. 
 This project is currently live hosted by vercel.com here: http://careerinformatics.com/
-Very fun project using mongodb cloud. 
 
 ## powerful questions
 https://github.com/BrianDLawrence/powerfulquestions
@@ -39,4 +38,10 @@ My vision for this project is to use it as a metaverse marketing tool. As I work
 I will add to this project with the vision of eventually releasing this to other users when the time is right. 
 Currently the web3 suite is an internal name and it is hosted on vercel here: https://web3suite.vercel.app/
 
-
+## catetry
+https://github.com/BrianDLawrence/catetry
+In an effort to learn more about NUXT3 and the ChatGPT API, I have created a web-based app that gives the user the ability to generate a poem about their cat using ChatGPT 3.5. 
+Catetry was an idea that my wife and I had many years ago due to the fact we have cats and my wife spends time on Facebook in a Meezer (Siamese Cats) Mom community. 
+Now that ChatGPT is available to the public, we have been able to take the idea and make it a reality. 
+Currently it is hosted on vercel here: https://catetry.vercel.app/
+This will be transferred to catetry.com once I am ready with version 1.0 (Targetting June 2023)
