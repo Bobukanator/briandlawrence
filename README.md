@@ -43,5 +43,4 @@ https://github.com/BrianDLawrence/catetry
 In an effort to learn more about NUXT3 and the ChatGPT API, I have created a web-based app that gives the user the ability to generate a poem about their cat using ChatGPT 3.5. 
 Catetry was an idea that my wife and I had many years ago due to the fact we have cats and my wife spends time on Facebook in a Meezer (Siamese Cats) Mom community. 
 Now that ChatGPT is available to the public, we have been able to take the idea and make it a reality. 
-Currently it is hosted on vercel here: https://catetry.vercel.app/
-This will be transferred to catetry.com once I am ready with version 1.0 (Targetting June 2023)
+Currently it is hosted on vercel here: https://catetry.com/
