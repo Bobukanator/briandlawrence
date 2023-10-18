@@ -30,7 +30,7 @@ This project is currently live hosted by vercel.com here: http://careerinformati
 ## career assist
 https://github.com/BrianDLawrence/careeradvisor
 NUXT 3 Version of interview assist but with a focus on Job and Resume Skill Scanner + integration with ChatGPT to help further analyze and provide guidance to the user 
-Not currently hosted but will be hosted on Vercel shortly (as of 10/18/2023). 
+Currently hosted on Vercel here: https://careeradvisor.vercel.app/
 
 ## powerful questions
 https://github.com/BrianDLawrence/powerfulquestions
