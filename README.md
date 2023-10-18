@@ -27,6 +27,11 @@ https://github.com/BrianDLawrence/interviewassist
 NUXT Version of the Interview Assistant originally designed and implemented 2012-2018 as part of Career Boot Camp Coaches LLC. 
 This project is currently live hosted by vercel.com here: http://careerinformatics.com/
 
+## career assist
+https://github.com/BrianDLawrence/careeradvisor
+NUXT 3 Version of interview assist but with a focus on Job and Resume Skill Scanner + integration with ChatGPT to help further analyze and provide guidance to the user 
+Not currently hosted but will be hosted on Vercel shortly (as of 10/18/2023). 
+
 ## powerful questions
 https://github.com/BrianDLawrence/powerfulquestions
 This is a simple website that randomly loads powerful questions for use by anyone who has interest in coaching others. 
@@ -44,3 +49,7 @@ In an effort to learn more about NUXT3 and the ChatGPT API, I have created a web
 Catetry was an idea that my wife and I had many years ago due to the fact we have cats and my wife spends time on Facebook in a Meezer (Siamese Cats) Mom community. 
 Now that ChatGPT is available to the public, we have been able to take the idea and make it a reality. 
 Currently it is hosted on vercel here: https://catetry.com/
+
+## llm rails
+https://github.com/BrianDLawrence/llm_rails
+This is a Ruby on Rails web application that is simply a wrapper for ruby-openai that integrates with ChatGPT 3.5 Turbo model. Not currently hosted anywhere. 
