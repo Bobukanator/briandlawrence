@@ -27,10 +27,10 @@ https://github.com/BrianDLawrence/interviewassist
 NUXT Version of the Interview Assistant originally designed and implemented 2012-2018 as part of Career Boot Camp Coaches LLC. 
 This project is currently live hosted by vercel.com here: http://careerinformatics.com/
 
-## career assist
+## resume ats advisor 
 https://github.com/BrianDLawrence/careeradvisor
 NUXT 3 Version of interview assist but with a focus on Job and Resume Skill Scanner + integration with ChatGPT to help further analyze and provide guidance to the user 
-Currently hosted on Vercel here: https://careeradvisor.vercel.app/
+Currently hosted on Vercel here: https://resume-ats.com/
 
 ## powerful questions
 https://github.com/BrianDLawrence/powerfulquestions
@@ -41,7 +41,7 @@ This project is currently live hosted by vercel.com here: http://powerful-questi
 https://github.com/BrianDLawrence/web3suite
 My vision for this project is to use it as a metaverse marketing tool. As I work with clients specific to metaverse and web3 branding, 
 I will add to this project with the vision of eventually releasing this to other users when the time is right. 
-Currently the web3 suite is an internal name and it is hosted on vercel here: https://web3suite.vercel.app/
+Currently the web3 suite is an internal name and it is hosted on vercel here: https://web3suite.co/
 
 ## catetry
 https://github.com/BrianDLawrence/catetry
