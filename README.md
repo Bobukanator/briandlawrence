@@ -35,7 +35,9 @@ Currently hosted on Vercel here: https://resume-ats.com/
 ## powerful questions
 https://github.com/BrianDLawrence/powerfulquestions<br>
 This is a simple website that randomly loads powerful questions for use by anyone who has an interest in coaching others.<br> 
-This project is currently live hosted by vercel.com here: http://powerful-questions.com/
+This project is currently live hosted by vercel.com here: http://powerful-questions.com/<br>
+I am currently refactoring this using NUXT3 and OpenAI apis - https://github.com/BrianDLawrence/coachingquestions<br>
+That is being hosted here at the moment: https://coachingquestions.vercel.app/
 
 ## web3 suite
 https://github.com/BrianDLawrence/web3suite<br>
