@@ -39,6 +39,12 @@ This project is currently live hosted by vercel.com here: http://powerful-questi
 I am currently refactoring this using NUXT3 and OpenAI apis - https://github.com/BrianDLawrence/coachingquestions<br>
 That is being hosted here at the moment: https://coachingquestions.vercel.app/
 
+## pq server
+https://github.com/BrianDLawrence/pqserver<br>
+This is a GraphQL server that provides read-only access to questions saved in the powerful questions database.<br>
+Note this is currently using the new version of powerful questions currently in development https://coachingquestions.vercel.app/<br>
+Currently hosted on vercel here: https://pqserver.vercel.app/
+
 ## web3 suite
 https://github.com/BrianDLawrence/web3suite<br>
 My vision for this project is to use it as a metaverse marketing tool. As I work with clients specific to metaverse and web3 branding, 
