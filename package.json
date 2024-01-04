@@ -4,9 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "nuxt2",
-    "build": "nuxt2 build --output public",
+    "build": "nuxt2 build",
     "start": "nuxt2 start",
-    "generate": "nuxt generate",
     "test": "jest"
   },
   "dependencies": {
