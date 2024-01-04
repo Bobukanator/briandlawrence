@@ -45,10 +45,5 @@ export default defineNuxtConfig({
   },
   googleAnalytics: {
     id: 'UA-18727748-2'
-  },
-
-  // Because my I have SSR , this should enable VERCEL to build/deploy 
-  generate: {
-    dir: 'public',
-  },
+  }
 })
