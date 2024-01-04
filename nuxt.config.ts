@@ -2,6 +2,9 @@ import { defineNuxtConfig } from '@nuxt/bridge'
 
 export default defineNuxtConfig({
   bridge: false,
+  generate: {
+    dir: 'dist' // Specify 'dist' as the output directory
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: 'Brian Lawrence %s',
