@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt2",
-    "build": "nuxt2 build",
-    "start": "nuxt2 start",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "start": "nuxt start",
+    "postinstall": "nuxt prepare",
     "test": "jest"
   },
   "dependencies": {
