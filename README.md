@@ -16,7 +16,9 @@ http://BrianDLawrence.com
 ## art generator
 https://github.com/BrianDLawrence/art_generator<br>
 I created this with the goal of dabbling in Python and TensorFlow. This project loads and trains a prediction model based on CIFAR-10.<br> 
-I then use that prediction model to randomly generate images, one of each of the 10 types of images in CIFAR-10. I was originally thinking about using this to create NFTs on opensea. 
+Once I have the prediction model, I use it like a discriminator, but instead of yes or no, it classifies the image as one of the ten categories of images in CIFAR-10.<br>
+I then create images using a simple creative technique of randomized Pillow ImageDraw-ings - you could consider this a generator and think of this project as a poor man's GAN.<br>
+I was originally thinking about using this to create NFTs on opensea - when that was a thing. 
 
 ## cryptobots
 https://github.com/BrianDLawrence/cryptobots<br>
@@ -57,6 +59,12 @@ In an effort to learn more about NUXT3 and the ChatGPT API, I have created a web
 Catetry was an idea that my wife and I had many years ago due to the fact we have cats and my wife spends time on Facebook in a Meezer (Siamese Cats) Mom community. 
 Now that ChatGPT is available to the public, we have been able to take the idea and make it a reality.<br> 
 Currently it is hosted on vercel here: https://catetry.com/
+
+## llama herder
+https://github.com/BrianDLawrence/llama_herder<br>
+A python project using langchain and ollama models<br>
+The end goal is to create an ai agent using local LLMs to do my bidding.<br>
+The first use case I have in mind is optimization of my calendar and TODOs. 
 
 ## llm rails
 https://github.com/BrianDLawrence/llm_rails<br>
