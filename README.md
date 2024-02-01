@@ -1,8 +1,9 @@
 # BrianDLawrence
 
 - 👋 Hi, I’m @BrianDLawrence 
-- 👀 I’m interested in crypto and metaverse technologies! 
-- 🌱 I’m currently actively coding using VUE.js, NUXT, and Python. 
+- 👀 I’m interested in web3, AI/ML, and solving problems pragmatically with code!
+- 🌱 I’m currently actively coding using JavaScript, TypeScript, Python, and Java.
+- 🧨 My favorite modern frameworks and tech for project work: Vue.js, NUXT, Node.js, Spring Boot, MongoDB, Vercel, Docker.
 - 💞️ I’m open to collaborate on anything exciting that provides value!
 - 📫 Feel free to reach out with questions: Brian@BrianDLawrence.com 
 
