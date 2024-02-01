@@ -65,7 +65,9 @@ Currently it is hosted on vercel here: https://catetry.com/
 https://github.com/BrianDLawrence/llama_herder<br>
 A python project using langchain and ollama models<br>
 The end goal is to create an ai agent using local LLMs to do my bidding.<br>
-The first use case I have in mind is optimization of my calendar and TODOs. 
+The first use case I have in mind is optimization of my calendar and TODOs. <br>
+This has expanded now to include a Java Spring Boot app server, I call the Llama Hub. <br>
+https://github.com/BrianDLawrence/llama_hub
 
 ## llm rails
 https://github.com/BrianDLawrence/llm_rails<br>
